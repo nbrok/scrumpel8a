@@ -4,4 +4,3 @@ Two serial ports at 115200 Baud are available and one parallel I/O port. RAM is 
 <p align='center'>
 <img alt='Photo Scrumpel8a' src=fotoscrumpel8a.jpg?raw=true' title='A build Scrumpel 8a' width='40%'>
 </p>
-<p align='center'>
